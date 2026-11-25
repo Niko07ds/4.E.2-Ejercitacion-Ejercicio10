@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+out/
+*.iws
+*.ipr
+
+# Java
+*.class
+
+# Archivos generados por la ejecución
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
